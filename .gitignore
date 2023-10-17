@@ -1,0 +1,23 @@
+# Created by https://www.toptal.com/developers/gitignore/api/{programming_language}
+
+### {programming_language} ###
+# Exclude build artifacts
+build/
+dist/
+node_modules/
+*.log
+
+# Exclude environment variables file
+.env
+
+# Exclude package-lock.json for npm
+package-lock.json
+
+# Exclude yarn.lock for yarn
+yarn.lock
+
+# Exclude .DS_Store files
+.DS_Store
+
+# Exclude .vscode folder
+.vscode/
