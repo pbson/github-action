@@ -10,9 +10,6 @@ node_modules/
 # Exclude environment variables file
 .env
 
-# Exclude package-lock.json for npm
-package-lock.json
-
 # Exclude yarn.lock for yarn
 yarn.lock
 
